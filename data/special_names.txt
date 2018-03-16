@@ -1,0 +1,7 @@
+3	"Nicky, Ricky, Dicky, & Dawn"
+1	"Diners, Drive-Ins and Dives"
+1	"Dude, Where's My Car?"
+2	"Crazy, Stupid, Love"
+1	"The Karate Kid, Part II"
+1	"The $100,000 Pyramid"
+1	"Me, Myself & I"

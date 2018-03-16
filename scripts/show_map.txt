@@ -1,0 +1,126 @@
+0	The Big Bang Theory
+1	Skin Tight
+2	PAW Patrol
+3	"Diners, Drive-Ins and Dives"
+4	Friends
+5	Power Rangers Ninja Steel
+6	Bunsen Is a Beast
+7	Mommy's Little Boy
+8	Say Yes to the Dress
+9	The Arrangement
+10	Who Do You Think You Are?
+11	Henry Danger
+12	Sweet Home Oklahoma
+13	SpongeBob SquarePants
+14	The Real Housewives of Beverly Hills
+15	Full House
+16	Watch What Happens: Live
+17	The Thundermans
+18	Black Ink Crew
+19	Beat Bobby Flay
+20	The Loud House
+21	Double Mommy
+22	Forgotten Evil
+23	The Proposal
+24	Love & Hip Hop Atlanta
+25	Teen Mom 2
+26	Chopped
+27	Mama June: From Not to Hot
+28	The Real Housewives of Atlanta
+29	Vanderpump Rules
+30	Beverly Hills Social
+31	The Late Show with Stephen Colbert
+32	Survivor: Game Changers
+33	The Real Housewives of New York City
+34	Designated Survivor
+35	Hooten & the Lady
+36	Scorpion
+37	The Flash
+38	MasterChef
+39	TMNT
+40	Mom
+41	Celebrity Family Feud
+42	Masters of Illusion
+43	E.T.: The Extra-Terrestrial
+44	Penn & Teller: Fool Us
+45	America's Got Talent
+46	What Would You Do?
+47	Beat Shazam
+48	The Tonight Show Starring Jimmy Fallon
+49	The 69th Primetime Emmy Awards
+50	Shahs of Sunset
+51	90 Day Fiance
+52	I Am Frankie
+53	Baller Wives
+54	The Sinner
+55	Law & Order: Special Victims Unit
+56	Love & Hip Hop Hollywood
+57	Late Night with Seth Meyers
+58	Last Call With Carson Daly
+59	The Middle
+60	Lethal Weapon
+61	black-ish
+62	Jimmy Kimmel Live!
+63	Good Morning America
+64	Speechless
+65	Seinfeld
+66	Yogi Bear
+67	Scandal
+68	How to Get Away with Murder
+69	Shark Tank
+70	Shrek Forever After
+71	America's Funniest Home Videos
+72	Steve Harvey's Funderdome
+73	"The $100,000 Pyramid"
+74	So You Think You Can Dance
+75	Young Sheldon
+76	Supergirl
+77	The Voice
+78	The Dude Perfect Show
+79	Dancing With the Stars
+80	Bull
+81	American Housewife
+82	Fresh Prince of Bel-Air
+83	Criminal Minds
+84	Today (1)
+85	Grey's Anatomy
+86	House Hunters International
+87	Good Morning America Weekend
+88	Flip or Flop Atlanta
+89	"Me, Myself & I"
+90	The Good Doctor
+91	The Mick
+92	Kevin (Probably) Saves the World
+93	Empire
+94	Star
+95	Modern Family
+96	Chicago P.D.
+97	Team Umizoomi
+98	Journey 2: The Mysterious Island
+99	Beachfront Bargain Hunt
+100	Hell's Kitchen
+101	Fixer Upper
+102	House Hunters
+103	Property Brothers
+104	Beachfront Bargain Hunt: Renovation
+105	Halloween Baking Championship
+106	The Toy Box
+107	Hawaii Life
+108	Mexico Life
+109	Escape from Mr. Lemoncello's Library
+110	Kevin Can Wait
+111	The Mayor
+112	NCIS: New Orleans
+113	Survivor: Heroes vs. Healers vs. Hustlers
+114	The Goldbergs
+115	Riverdale
+116	SEAL Team
+117	Worst Cooks in America
+118	Flip Or Flop
+119	Cloudy with a Chance of Meatballs
+120	My Lottery Dream Home
+121	Marvel's Inhumans
+122	20/20
+123	Halloween Wars
+124	Psycho In-Law
+125	Despicable Me

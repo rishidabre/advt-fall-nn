@@ -1,0 +1,6 @@
+README
+------
+
+The neural network algorithm is in the file named l3bp.py (under 'scripts' directory). It takes as an argument the path to the data file (here, data_consolidated_enc_2.txt) from the 'data' directory as follows:
+
+>> ./l3bp.py ../data/data_conoslidated_enc_2.txt

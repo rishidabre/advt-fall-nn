@@ -1,0 +1,10 @@
+README
+------
+
+The initial neural network algorithm is in the file named l3bp.py (under 'scripts' directory). It takes as an argument the path to the data file (here, data_consolidated_enc_2.txt) from the 'data' directory as follows:
+
+>> ./l3bp.py ../data/data_conoslidated_enc_2.txt
+
+The neural network used in regression analysis can be found in in the file named libackprop.py (under 'scripts' directory). It takes as arguments the paths to the training and test data files (here, test_data_2_cut.txt and data_consolidated_enc_2_cut.txt) from the 'data' directory as follows:
+
+>> ./libackprop.py ../data/test_data_2_cut.txt ../data/data_consolidated_enc_2_cut.txt

@@ -1,0 +1,1 @@
+w1, w2 = 2*randn(D_in, H)-8, 2*randn(H, D_out)-8
